@@ -2,7 +2,7 @@
 Các hướng dẫn này được viết cho người lập trình C sử dụng Windows:
 
 1. Phương án 1: Thiết lập môi trường lập trình và biên dịch mã nguồn C để tạo các ứng dụng bản địa (Native Applications).
-2. Phương án 2: Nếu bạn cần một giải pháp thuận tiện để viết và chạy những mã nguồn C đơn giản thì có thể tham khảo các giải pháp trực tuyến như [Repl.it](https://repl.it/)
+2. Phương án 2: Nếu bạn cần một giải pháp thuận tiện để viết và chạy những mã nguồn C đơn giản thì có thể tham khảo các giải pháp trực tuyến như [Repl.it](https://repl.it/), [Coding Rooms](https://www.codingrooms.com/)
 
 Có thể kết hợp cả 2 phương án cho mục đích học tập.
 
